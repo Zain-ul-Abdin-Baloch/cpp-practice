@@ -4,7 +4,7 @@ using namespace std;
 
 int main(){
     
-    int num1 = 10; 
+    int num1 = 10.56; 
     int num2 = 20;
 
     float num3 = 3.532222222;
