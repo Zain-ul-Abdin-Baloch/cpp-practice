@@ -3,21 +3,17 @@ using namespace std;
 
 int main(){
 
-   int num1 = 40; 
-   int num2 = 50;
+    int num1 = 46;
+    int num2 = 80; 
 
-//    cout<<"the value of num1"<<endl;
-//    cin>>num1;
+    int sum = num1+num2;
 
-//    cout<<"the value of num2"<<endl;
-//    cin>>num2;
+    cout<<sum<<endl;
+    
+    cout<<"the sum of "<<num1<< " and "<<num2<<" = "<<sum;
 
-    int sum = num1 + num2;
-
-
-   cout<<"Sum is:"<<sum;
-
-   
+    
+    
 
     return 0;
 } 
